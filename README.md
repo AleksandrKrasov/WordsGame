@@ -1,0 +1,2 @@
+# WordsGame
+This game gives a possiblity to play words. You have the opportunity to choose the theme of the game. There are 2 game modes: with the computer and with the second user. Rules: the first player writes a word, and the computer must specify a word that begins with the last letter of the specified word. If the player can not remember the word, then he can give up. If the computer does not have a word in the database, then it must recognize the winner of the person. The result of the game is presented at the end of the game.
